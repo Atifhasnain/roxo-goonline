@@ -1,6 +1,6 @@
 baseURL       = "http://example.org/"
 languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+title         = "Go Online | Web Solutions"
 theme         = "roxo"
 summarylength = 25
 
@@ -27,6 +27,10 @@ summarylength = 25
     name    = "Get in touch"
     url     = "contact"
     weight  = 5
+  [[menu.nav]]
+    name    = "Services"
+    url     = "services"
+    weight  = 6
 
 # Site Params
 [params]
