@@ -30,7 +30,7 @@ summarylength = 25
 
 # Site Params
 [params]
-  logo = "images/logo.png"
+  logo = "images/goonline.svg"
   dateFormat = "26 FEB 1994"
   # Meta data
   description = "Roxo Hugo themes | Design Agency Template by StaticMania"
@@ -67,8 +67,8 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
+    heading               = "Let us solve your critical website development challenges."
+    tagline               = "WE WORK HARD, WE DELIVER RESULTS"
     primary_button        = "See Our Works"
     primary_button_url    = "portfolio"
     secondary_button      = "Connect with Us"
@@ -85,21 +85,21 @@ summarylength = 25
     title               = "LET’S WORK TOGETHER"
     primary_button      = "Submit Query"
     primary_button_url  = "contact"
-    secondary_button    = "Not Convinced"
+    secondary_button    = "Confused"
     secondary_button_url = "portfolio"
 
   [params.footer]
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "713 Elmwood St.<br>Prior Lake, MN 55372"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      address = "Johar Town<br>Lahore, Pakistan"
+      phone   = "+92-321-2956633"
+      email   = "info@goonline.dev"
       # Footer Sitemap
       [params.footer.sitemap]
         title   = "Sitemap"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "Services"
           url  = "about"
         [[params.footer.sitemap.link]]
           name = "Projects"
@@ -114,18 +114,18 @@ summarylength = 25
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
+          name = "Facebook"
+          url  = "https://facebook.com/goonline.dev"
+        [[params.footer.social.link]]
           name = "Medium"
           url  = "#"
         [[params.footer.social.link]]
+          name = "Linkedin"
+          url  = "#"
+        [[params.footer.social.link]]
           name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Instagram"
-          url  = "#"
+          url  = "#"      
       # Footer Service
       [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+        title       = "We help you to:"
+        description = "make online presence<br>gow your business online<br>"
