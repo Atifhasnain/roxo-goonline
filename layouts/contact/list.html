@@ -10,7 +10,8 @@
       <div class="col-lg-6 ml-auto">
         <div class="site-contact-form">
           <h4>{{ .Params.form_heading }}</h4>
-          <form name="contact" id="contact-form" action="{{ .Site.Params.formspreeFormUrl }}" method="POST" data-netlify="true">
+          <!-- action="{{ .Site.Params.formspreeFormUrl }}" -->
+          <form name="contact" id="contact-form" method="POST" data-netlify="true">
             <div class="row">
               <div class="col-lg-6">
                 <input type="text" class="form-control" name="first-name" id="first-name" placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}">
