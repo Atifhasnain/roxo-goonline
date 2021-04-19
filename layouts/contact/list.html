@@ -13,15 +13,12 @@
           <form name="contact" id="contact-form" action="{{ .Site.Params.formspreeFormUrl }}" method="POST" data-netlify="true">
             <div class="row">
               <div class="col-lg-6">
-                <label for="name" hidden>{{ i18n "contact_form_name" }}</label>
                 <input type="text" class="form-control" name="first-name" id="first-name" placeholder="{{ .Site.Params.contactForm.placeholder_first_name }}">
               </div>
               <div class="col-lg-6">
-                <label for="name" hidden>{{ i18n "contact_form_name" }}</label>
                 <input type="text" class="form-control" name="last-name" id="last-name" placeholder="{{ .Site.Params.contactForm.placeholder_last_name }}">
               </div>
               <div class="col-lg-6">
-                <label for="email" hidden>{{ i18n "contact_form_email" }}</label>
                 <input type="email" class="form-control" name="email" id="email" placeholder="{{ .Site.Params.contactForm.placeholder_email }}">
               </div>
               <div class="col-lg-6">
@@ -35,7 +32,6 @@
                 </div>
               </div>
               <div class="col-12">
-                <label for="message" hidden>{{ i18n "contact_form_message" }}</label>
                 <textarea class="form-control" id="aboutProject" name="about-project" rows="6" placeholder="{{ .Site.Params.contactForm.placeholder_about_the_project }}"></textarea>
               </div>
               <div class="col-12">
