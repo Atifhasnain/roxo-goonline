@@ -1,5 +1,6 @@
 .site-hero{
   position: relative;
+  padding-top: 35px;
   height: 100vh;
   background-size: cover;
   background-position: center center;
@@ -9,7 +10,6 @@
   @include desktop{
     height: auto;
     padding: 200px 0;
-    padding-top: 35px;
   }
   @include mobile{
     padding: 150px 0;
