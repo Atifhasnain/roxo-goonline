@@ -267,7 +267,7 @@ textarea.form-control {
   .site-hero-scroll {
     position: absolute;
     left: 50%;
-    bottom: 70px;
+    bottom: 30px;
     transform: translateX(-50%); }
 
 .site-counter {
