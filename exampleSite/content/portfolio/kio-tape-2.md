@@ -1,8 +1,8 @@
 ---
-title: "KIO-TAPE BRAND"
+title: "222 Trading"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
-image: "images/projects/project-thumb-four.jpg"
+image: "images/projects/profile-city.jpg"
 category: ["PRODUCT LABEL"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
