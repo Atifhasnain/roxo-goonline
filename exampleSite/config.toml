@@ -80,6 +80,7 @@ summarylength = 25
     subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
 
   [params.plugins.css]
+    enable              = true 
     link = "plugins/ionicons/css/ionicons.min.css"
     attributes = ""
 
