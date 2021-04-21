@@ -8,27 +8,27 @@ item    :
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : ion-ios-lightbulb-outline
-    title : Well documented.
+  - icon  : "images/feature/logo-designernews.svg"
+    title : Web Design
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : ion-ios-americanfootball-outline
+  - icon  : "images/feature/code-outline.svg"
     title : Free updates
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : ion-ios-keypad-outline
+  - icon  : "images/feature/code-outline.svg"
     title : Solid Support
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : ion-ios-barcode-outline
+  - icon  : "images/feature/code-outline.svg"
     title : Simple Installation
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
   
-  - icon  : ion-ios-lightbulb-outline
+  - icon  : "images/feature/code-outline.svg"
     title : Well documented.
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
