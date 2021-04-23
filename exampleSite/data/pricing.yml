@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "CHECK OUR PRICING WHICH BEST SUITS YOU"
 counter_item: 
+    number: "Basic"
   - title: "Happy Clients"
-    number: "150"
-
+    
+    number: "Premium"
   - title: "Projects Completed"
-    number: "100"
+    
+    number: "Advance"
+  - title: "Years of Experience"
 
   # - title: "Cups of coffee"
   #   number: "350"
-
-  - title: "Years of Experience"
-    number: "8"
