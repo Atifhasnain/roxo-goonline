@@ -10,11 +10,9 @@
         </div>
         {{ range .counter_item }}
         <div class="col-lg-4 col-md-6">
-          <div class="site-testimonial-item"></div>
-            <div class="site-counter-item">
-              <span class="site-counter-item-title">{{ .title }}</span>
-              <h3 class="site-counter-item-number">{{ .number }}+</h3>
-            </div>
+          <div class="site-counter-item">
+            <span class="site-counter-item-title">{{ .title }}</span>
+            <h3 class="site-counter-item-number">{{ .number }}+</h3>
           </div>
         </div>
         {{ end }}
