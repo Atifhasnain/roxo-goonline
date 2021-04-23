@@ -4,8 +4,8 @@ counter_item:
   - title: "Happy Clients"
     number: "Basic"
     items:
-    - things 1
-    - things 2       
+      - things 1
+      - things 2       
 
   - title: "Projects Completed"
     number: "Premium"
