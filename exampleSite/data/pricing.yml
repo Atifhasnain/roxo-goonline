@@ -3,14 +3,9 @@ heading : "CHECK PRICING WHICH BEST SUITS YOU"
 counter_item: 
   - title: "Happy Clients"
     number: "Basic"
-    items: [ 1, 2, 3, 4, 5 ]
-    # items:
-    # - things:
-    #     thing1: huey
-    #     things2: dewey
-    #     thing3: louie
-    # - other things:
-    #     key: value
+    items:
+    - things 1
+    - things 2       
 
   - title: "Projects Completed"
     number: "Premium"
