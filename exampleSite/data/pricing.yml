@@ -1,14 +1,14 @@
 enable : true
 heading : "CHECK OUR PRICING WHICH BEST SUITS YOU"
 counter_item: 
-    number: "Basic"
   - title: "Happy Clients"
-    
-    number: "Premium"
+    number: "Basic"
+
   - title: "Projects Completed"
-    
-    number: "Advance"
-  - title: "Years of Experience"
+    number: "Premium"
 
   # - title: "Cups of coffee"
   #   number: "350"
+
+  - title: "Years of Experience"
+    number: "Advance"
