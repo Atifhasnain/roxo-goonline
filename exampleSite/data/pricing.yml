@@ -2,7 +2,6 @@ enable : true
 heading : "CHECK PRICING WHICH BEST SUITS YOU"
 counter_item: 
   - title: "Happy Clients"
-  - title: "Happy Clients"
     number: "Basic"
 
   - title: "Projects Completed"
