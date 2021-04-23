@@ -13,7 +13,14 @@
           <div class="site-counter-item">
             <h3 class="site-counter-item-number">{{ .number }}</h3>
             <span class="site-counter-item-title">{{ .title }}</span>
-            <span class="site-counter-item-title">{{ .items }}</span>
+            <div class="col-md-4">
+              <ul class="site-expertise-list">
+                {{ range .Params.expertise_sectors }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            </div>
+            <!-- <span class="site-counter-item-title">{{ .items }}</span> -->
           </div>
         </div>
         {{ end }}

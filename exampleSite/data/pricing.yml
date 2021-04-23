@@ -3,7 +3,7 @@ heading : "CHECK PRICING WHICH BEST SUITS YOU"
 counter_item: 
   - title: "Happy Clients"
     number: "Basic"
-    items: ["Web Development", "Web Design", "Graphic Design", "Social Media Marketng/Management", "Web Maintenance", "E-Commerce Solutions", "Logo Design", "Web Hosting", "Domain Registration", "Business Card", "E-Brochure"]      
+    expertise_sectors: ["Web Development", "Web Design", "Graphic Design", "Social Media Marketng/Management", "Web Maintenance", "E-Commerce Solutions", "Logo Design", "Web Hosting", "Domain Registration", "Business Card", "E-Brochure"]      
 
   - title: "Projects Completed"
     number: "Premium"
