@@ -6,29 +6,29 @@ item    :
   - icon  : "images/feature/coding.svg"
     title : Web Development
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+        These days web presence is inevitable for most.
 
   - icon  : "images/feature/seo.svg"
     title : Web Maintenance
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Maintaining a good website is as important as the website.
 
-  - icon  : "images/feature/programming.svg"
+  - icon  : "images/feature/programming1.svg"
     title : UX/UI Design
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      UX/UI Design We know the difference between User Experience (UX).
 
   - icon  : "images/feature/shopping.svg"
     title : E-Commerce Solutions
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      We are one stop shop for variety of E-Commerce solutions.
 
   - icon  : "images/feature/domain.svg"
     title : Domain & Hosting
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Finding a reliable host and choosing a domain name can.
   
   - icon  : "images/feature/consultation.svg"
     title : Consulting
     description : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
+      Finding the right and budget oriented solution for business.
