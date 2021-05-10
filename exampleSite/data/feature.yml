@@ -3,22 +3,22 @@ title   : Services Offered
 subtitle: >
   Offering these Professional Services to clients all over the world with quality and satisfaction. 
 item    :
-  - icon  : "images/feature/programming.svg"
+  - icon  : "images/feature/coding.svg"
     title : Web Development
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : "images/feature/maintenance.svg"
+  - icon  : "images/feature/seo.svg"
     title : Web Maintenance
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : "images/feature/code-outline.svg"
+  - icon  : "images/feature/programming.svg"
     title : UX/UI Design
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
 
-  - icon  : "images/feature/code-outline.svg"
+  - icon  : "images/feature/shopping.svg"
     title : E-Commerce Solutions
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
@@ -28,7 +28,7 @@ item    :
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
   
-  - icon  : "images/feature/code-outline.svg"
+  - icon  : "images/feature/consultation.svg"
     title : Consulting
     description : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatum, sint.
