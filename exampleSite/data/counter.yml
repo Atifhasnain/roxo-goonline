@@ -1,14 +1,14 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "OUR GOAL IS CUSTOMER PEACE WITH PERFECTION"
 counter_item: 
-  - title: "Happy Clients"
-    number: "150"
+  - title: "Web Designs"
+    number: "250"
 
-  - title: "Projects Completed"
+  - title: "Live Projects"
+    number: "180"
+
+  - title: "Logo Designs"
     number: "100"
 
-  # - title: "Cups of coffee"
-  #   number: "350"
-
-  - title: "Years of Experience"
-    number: "8"
+  - title: "Clients"
+    number: "50"
