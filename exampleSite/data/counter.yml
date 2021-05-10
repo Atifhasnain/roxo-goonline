@@ -1,14 +1,14 @@
 enable : true
 heading : "OUR GOAL IS CUSTOMER PEACE WITH PERFECTION"
 counter_item: 
+  - title: "Logo Designs"
+    number: "100"
+    
   - title: "Web Designs"
     number: "250"
 
   - title: "Live Projects"
     number: "180"
-
-  - title: "Logo Designs"
-    number: "100"
 
   - title: "Clients"
     number: "50"
