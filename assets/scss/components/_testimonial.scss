@@ -9,6 +9,7 @@
     transition: all 0.3s ease-in;
     &.active{
       box-shadow: 0px 30px 45px 0px rgba(0, 0, 0, 0.05);
+      background-color: #070b1a;
     }
     &.inactive{
       opacity: 0.4;
