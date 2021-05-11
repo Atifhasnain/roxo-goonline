@@ -1,42 +1,42 @@
 enable  : true
 title   : Team that makes the difference.
 members  :
-  - image       : images/team/team-member-one.jpg
+  - image       : images/team/atif.jpg
     name        : MUHAMMAD ATIF HASNAIN
     designation : Web Designer & Developer
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-two.jpg
+  - image       : images/team/yasir.jpg
     name        : MUHAMMAD YASIR
     designation : System Administrator
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-three.jpg
+  - image       : images/team/saqib.jpg
     name        : MUHAMMAD SAQIB KAMRAN
     designation : Python Developer
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-four.jpg
+  - image       : images/team/sheryar.jpg
     name        : SHERYAR AHMED
     designation : PHP Developer
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-five.jpg
+  - image       : images/team/basit.jpg
     name        : ABDUL BASIT
     designation : Fullstack JavaScript Engineer
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
-  - image       : images/team/team-member-six.jpg
+  - image       : images/team/jazib.jpg
     name        : JAZIB ALI MINHAS
     designation : Project Management
     medium      : https://www.medium.com/
