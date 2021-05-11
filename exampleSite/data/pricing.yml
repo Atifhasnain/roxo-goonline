@@ -1,7 +1,30 @@
 enable : true
 heading : "CHECK PRICING WHICH BEST SUITS YOU"
 counter_item: 
-  - title: "Happy Clients"
+  - title: "Custom Home Page"	
+    list:  "Home Page Banner Design"	
+    list:  "Contact Forms"		
+    list:  "Responsive Design"			
+            WordPress Platform			
+            Content Pages	5 Pages	8 To 12 Pages	Up To 20
+            Mobile Optimized			
+            Speed Optimization			
+            Content Management System			
+            Initial SEO Setup			
+            General Contact Form			
+            Chatbot/Livechat Setup			
+            Social Media Integration			
+            Submission To Search Engines			
+            Google Search Console Setup			
+            Google Map Integration			
+            Promo Popup Design And Configuration			
+            Newsletter Integration			
+            Google Analytics			
+            Optimized Meta Tags			
+            Photo Gallery			
+            Domain & Hosting		
+            Email Addresses	
+            "Social Media Optimized"
     number: "Basic"      
 
   - title: "Projects Completed"
