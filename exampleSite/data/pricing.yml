@@ -2,7 +2,7 @@ enable : true
 heading : "Best Package Plans"
 counter_item: 
   - title: ""	            
-    number: ""    
+    number: "Services"    
     items: ["Web Development", 
     "Home Page Banner Design"	,
     "Contact Forms",
