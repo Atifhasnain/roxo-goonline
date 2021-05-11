@@ -1,8 +1,7 @@
 enable : true
-heading : "CHECK PRICING WHICH BEST SUITS YOU"
-counter_item: 
-  - title: "Custom Home Page"	            
-    number: "Basic"    
+heading : "Best Package Plan"
+counter_item:	            
+    number: "Starter"    
     items: ["Web Development", 
     "Home Page Banner Design"	,
     "Contact Forms",
