@@ -9,6 +9,10 @@ counter_item:
       - 3
       - 4
       - 5 
+      - "one"
+      - "two"
+      - "three"
+      - "four"
 
   - title: "Projects Completed"
     number: "Premium"
