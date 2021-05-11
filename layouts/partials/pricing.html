@@ -14,7 +14,7 @@
             <h3 class="site-counter-item-number">{{ .number }}</h3>
             <span class="site-counter-item-title">{{ .title }}</span>
             <ul>
-              {{ range .Params.items }}
+              {{ range .items }}
               <li>{{ . }}</li>
               {{ end }}
             </ul>
