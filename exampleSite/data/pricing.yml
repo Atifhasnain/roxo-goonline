@@ -25,7 +25,8 @@ counter_item:
             Domain & Hosting		
             Email Addresses	
             "Social Media Optimized"
-    number: "Basic"      
+    number: "Basic"    
+    items: [ 1, 2, 3, 4, 5 ]  
 
   - title: "Projects Completed"
     number: "Premium"
