@@ -2,9 +2,9 @@ enable : true
 heading : "CHECK PRICING WHICH BEST SUITS YOU"
 counter_item: 
   - title: "Custom Home Page"	
-    list:  "Home Page Banner Design"	
-    list:  "Contact Forms"		
-    list:  "Responsive Design"			
+            "Home Page Banner Design"	
+            "Contact Forms"		
+            Responsive Design			
             WordPress Platform			
             Content Pages	5 Pages	8 To 12 Pages	Up To 20
             Mobile Optimized			
