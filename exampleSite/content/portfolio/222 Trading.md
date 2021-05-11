@@ -7,5 +7,3 @@ category: ["Web Development - PHP"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 web: [222 Trading](https://www.222.icu)
 ---
-
-
