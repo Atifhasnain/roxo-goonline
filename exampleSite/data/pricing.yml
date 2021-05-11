@@ -3,8 +3,7 @@ heading : "Best Package Plans"
 counter_item: 
   - title: ""	            
     number: "Starter"    
-    items: ["Web Development", 
-    "Home Page Banner Design"	,
+    items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
     "WordPress Platform",
@@ -31,8 +30,7 @@ counter_item:
 
   - title: ""	            
     number: "Corporate"    
-    items: ["Web Development", 
-    "Home Page Banner Design"	,
+    items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
     "WordPress Platform",
@@ -59,8 +57,7 @@ counter_item:
 
   - title: ""	            
     number: "Enterprise"    
-    items: ["Web Development", 
-    "Home Page Banner Design"	,
+    items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
     "WordPress Platform",
