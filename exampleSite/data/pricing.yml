@@ -4,11 +4,10 @@ counter_item:
   - title: "Custom Home Page"	            
     number: "Basic"    
     items:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5 
+      - things:
+          thing1: huey
+          things2: dewey
+          thing3: louie
 
   - title: "Projects Completed"
     number: "Premium"
