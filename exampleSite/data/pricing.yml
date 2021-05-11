@@ -3,16 +3,7 @@ heading : "CHECK PRICING WHICH BEST SUITS YOU"
 counter_item: 
   - title: "Custom Home Page"	            
     number: "Basic"    
-    items:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5 
-      - "one"
-      - "two"
-      - "three"
-      - "four"
+    items: ["Web Development", "Web Design", "Graphic Design", "Social Media Marketng/Management", "Web Maintenance", "E-Commerce Solutions", "Logo Design", "Web Hosting", "Domain Registration", "Business Card", "E-Brochure"]
 
   - title: "Projects Completed"
     number: "Premium"
