@@ -13,12 +13,19 @@
           <div class="site-counter-item">
             <h3 class="site-counter-item-number">{{ .number }}</h3>
             <span class="site-counter-item-title">{{ .title }}</span>
+            <!-- <ul class="site-counter-item-title">
+              {{ range .items }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul> -->
+            <!-- <div class="site-counter-item-title">{{ .items }}</div> -->
+          </div>
+          <div>
             <ul>
               {{ range .items }}
               <li>{{ . }}</li>
               {{ end }}
             </ul>
-            <!-- <div class="site-counter-item-title">{{ .items }}</div> -->
           </div>
         </div>
         {{ end }}
