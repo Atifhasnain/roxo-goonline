@@ -24,5 +24,13 @@
       font-weight: 700;
       // text-align: center;
     }
+    li{
+      list-style: none;
+      font-size: 25px;
+      font-weight: 300;
+      color: $text-color-dark;
+      &:not(:last-child){
+        margin-bottom: 10px;
+      }
   }
 }
