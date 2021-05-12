@@ -1,12 +1,34 @@
 enable  : true
 title   : Best Package Plans
 subtitle: >
-  Offering these Professional Services to clients all over the world with quality and satisfaction. 
+  Price which makes you comfortable
 item    :
   - icon  : "images/feature/coding.svg"
     title : Web Development
-    description : >
-        These days web presence is inevitable for most.
+    items: ["Home Page Banner Design"	,
+    "Contact Forms",
+    "Responsive Design",
+    "WordPress Platform",
+    "Content Pages	5 Pages",
+    "Mobile Optimized",
+    "Speed Optimization",		
+    "Content Management System",	
+    "Initial SEO Setup",	
+    "General Contact Form",		
+    "Chatbot/Livechat Setup",	
+    "Social Media Integration",		
+    "Submission To Search Engines",		
+    "Google Search Console Setup",	
+    "Google Map Integration",
+    "Promo Popup Design And Configuration",		
+    "Newsletter Integration",
+    "Google Analytics",
+    "Optimized Meta Tags",
+    "Photo Gallery",
+    "Domain & Hosting",
+    "Email Addresses",
+    "Social Media Optimized"
+    ]
 
   - icon  : "images/feature/seo.svg"
     title : Web Maintenance

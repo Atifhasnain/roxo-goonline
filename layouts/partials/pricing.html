@@ -26,9 +26,11 @@
                 <h5>{{ .title }}</h5>
               </div>
             </div>
-            <p class="site-testimonial-item-body">
-              {{ .description }}
-            </p>
+            <ul class="site-counter-item-list">
+              {{ range .items }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
           </div>
         </div>
         {{ end }}
