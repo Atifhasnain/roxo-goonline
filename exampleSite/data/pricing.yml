@@ -3,7 +3,7 @@ title   : Best Package Plans
 subtitle: >
   Price which makes you comfortable
 item    :
-  - icon  : "images/feature/coding.svg"
+  - icon  : "images/feature/best-price.svg"
     title : Starter
     items: ["Home Page Banner Design"	,
     "Contact Forms",
@@ -30,7 +30,7 @@ item    :
     "Social Media Optimized"
     ]
 
-  - icon  : "images/feature/seo.svg"
+  - icon  : "images/feature/best-price.svg"
     title : Corporate
     items: ["Home Page Banner Design"	,
     "Contact Forms",
@@ -57,7 +57,7 @@ item    :
     "Social Media Optimized"
     ]
 
-  - icon  : "images/feature/programming1.svg"
+  - icon  : "images/feature/best-price.svg"
     title : Enterprise
     items: ["Home Page Banner Design"	,
     "Contact Forms",
