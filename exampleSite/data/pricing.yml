@@ -4,7 +4,7 @@ subtitle: >
   Best prices which makes you comfortable
 item    :
   - icon  : "images/feature/best-price.svg"
-    title : Starter
+    title : Starter $120
     items: ["Home Page Banner Design",
     "Contact Forms",
     "Responsive Design",
@@ -24,7 +24,7 @@ item    :
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : Corporate
+    title : Corporate $250
     items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
@@ -50,7 +50,7 @@ item    :
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : Enterprise
+    title : Enterprise $380
     items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
