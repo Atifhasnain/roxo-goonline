@@ -1,7 +1,6 @@
 enable : true
 heading : "Best Package Plans"
-service_item: 
-  - number: "Services"
+number: "Services"
     items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
