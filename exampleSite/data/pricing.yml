@@ -3,8 +3,9 @@ heading : "Best Package Plans"
 counter_item: 
   - title: ""	            
     number: "Services"
-    image: images/team/atif.jpg    
-    image: images/team/atif.jpg  
+    client_logos: ["images/clients/client-logo-one.png", "images/clients/client-logo-two.png" ]
+    # image: images/team/atif.jpg    
+    # image: images/team/atif.jpg  
     items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
