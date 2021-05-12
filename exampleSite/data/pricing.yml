@@ -5,7 +5,7 @@ subtitle: >
 item    :
   - icon  : "images/feature/best-price.svg"
     title : Starter
-    items: ["Home Page Banner Design"	,
+    items: [~~Home Page Banner Design~~	,
     ~~Contact Forms~~,
     "Responsive Design",
     "WordPress Platform",
