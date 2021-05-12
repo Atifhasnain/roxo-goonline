@@ -30,7 +30,7 @@ counter_item:
 
   - title: ""	            
     number: "Starter"    
-    items: [ images/team/atif.jpg, images/team/atif.jpg,
+    items: [ "images/team/atif.jpg", "images/team/atif.jpg",
     "Contact Forms",
     "Responsive Design",
     "WordPress Platform",
