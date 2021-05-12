@@ -13,7 +13,8 @@
           <div class="site-counter-item">
             <h3 class="site-counter-item-number">{{ .number }}</h3>
             <span class="site-counter-item-title">{{ .title }}</span>
-            <img src="{{ .image | absURL }}" alt="team-member">
+            {{ range .images }}
+            <img src="{{ . | absURL }}" alt="team-member">
           </div>
           <div>
             <ul class="site-counter-item-list">
@@ -22,6 +23,13 @@
               {{ end }}
             </ul>
           </div>
+          <!-- <div class="site-client-wrapper">
+            {{ range .client_logos }}
+            <div class="site-client-item">
+              <img src="{{ . | absURL }}" alt="client-logo">
+            </div>
+            {{ end }}
+          </div> -->
         </div>
         {{ end }}
       </div>
