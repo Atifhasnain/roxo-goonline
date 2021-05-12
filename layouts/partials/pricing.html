@@ -9,20 +9,38 @@
           </div>
         </div>
         {{ range .counter_item }}
-        <div class="col-lg-3 col-md-6">
-          <div class="site-counter-item">
-            <h3 class="site-counter-item-number">{{ .number }}</h3>
-            <span class="site-counter-item-title">{{ .title }}</span>
-            <!-- <img src="{{ .image | absURL }}" alt="team-member"><br>
-            <img src="{{ .image | absURL }}" alt="team-member"> -->
+        <div class="row">
+          <div class="col-3 col-md-6">
+            <div class="site-counter-item">
+              <h3 class="site-counter-item-number">{{ .number }}</h3>
+              <span class="site-counter-item-title">{{ .title }}</span>
+              <!-- <img src="{{ .image | absURL }}" alt="team-member"><br>
+              <img src="{{ .image | absURL }}" alt="team-member"> -->
+            </div>          
+            <div>
+              <ul class="site-counter-item-list">
+                {{ range .items }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            </div>
           </div>
-          
-          <div>
-            <ul class="site-counter-item-list">
-              {{ range .items }}
-              <li>{{ . }}</li>
-              {{ end }}
-            </ul>
+          <div class="col-9">
+            <div class="col-lg- col-md-6">
+              <div class="site-counter-item">
+                <h3 class="site-counter-item-number">{{ .number }}</h3>
+                <span class="site-counter-item-title">{{ .title }}</span>
+                <!-- <img src="{{ .image | absURL }}" alt="team-member"><br>
+                <img src="{{ .image | absURL }}" alt="team-member"> -->
+              </div>          
+              <div>
+                <ul class="site-counter-item-list">
+                  {{ range .items }}
+                  <li>{{ . }}</li>
+                  {{ end }}
+                </ul>
+              </div>
+            </div>
           </div>
         </div>
         {{ end }}
