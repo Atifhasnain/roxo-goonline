@@ -1,7 +1,7 @@
 enable  : true
-title   : Best Package Plans
+title   : Package Plans
 subtitle: >
-  Prices which makes you comfortable
+  Best prices which makes you comfortable
 item    :
   - icon  : "images/feature/best-price.svg"
     title : Services
@@ -110,3 +110,4 @@ item    :
     "Email Addresses",
     "Social Media Optimized"
     ]
+    
