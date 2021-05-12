@@ -3,8 +3,6 @@ heading : "Best Package Plans"
 counter_item: 
   - title: ""	            
     number: "Services"
-    image: images/team/atif.jpg    
-    image: images/team/atif.jpg  
     items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
@@ -34,6 +32,7 @@ counter_item:
     number: "Starter"    
     items: ["Home Page Banner Design"	,
     "Contact Forms",
+    "image: images/team/atif.jpg",
     "Responsive Design",
     "WordPress Platform",
     "Content Pages	5 Pages",
