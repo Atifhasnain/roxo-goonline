@@ -2,7 +2,8 @@ enable : true
 heading : "Best Package Plans"
 counter_item: 
   - title: ""	            
-    number: "Services"    
+    number: "Services"
+    image: images/team/atif.jpg    
     items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
