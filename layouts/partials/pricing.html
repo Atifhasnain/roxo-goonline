@@ -13,16 +13,10 @@
           <div class="site-counter-item">
             <h3 class="site-counter-item-number">{{ .number }}</h3>
             <span class="site-counter-item-title">{{ .title }}</span>
-            <img src="{{ .image | absURL }}" alt="team-member"><br>
-            <img src="{{ .image | absURL }}" alt="team-member">
+            <!-- <img src="{{ .image | absURL }}" alt="team-member"><br>
+            <img src="{{ .image | absURL }}" alt="team-member"> -->
           </div>
-          <div class="site-client-wrapper">
-            {{ range .client_logos }}
-            <div class="site-client-item">
-              <img src="{{ . | absURL }}" alt="client-logo"><br>
-            </div>
-            {{ end }}
-          </div>
+          
           <div>
             <ul class="site-counter-item-list">
               {{ range .items }}
