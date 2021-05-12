@@ -1,7 +1,11 @@
 enable : true
 heading : "Best Package Plans"
-number: "Services"
-  - items: ["Home Page Banner Design"	,
+counter_item: 
+  - title: ""	            
+    number: "Services"
+    image: images/team/atif.jpg    
+    image: images/team/atif.jpg  
+    items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
     "WordPress Platform",
@@ -26,9 +30,9 @@ number: "Services"
     "Social Media Optimized"
     ]
 
-- title: ""	            
+  - title: ""	            
     number: "Starter"    
-    items: [ "images/team/atif.jpg", "images/team/atif.jpg",
+    items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
     "WordPress Platform",
