@@ -2,43 +2,22 @@ enable  : true
 title   : Best Package Plans
 members  :
   - image       : images/team/atif.jpg
-    name        : MUHAMMAD ATIF HASNAIN
+    name        : Starter
     designation : Web Designer & Developer
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/yasir.jpg
-    name        : MUHAMMAD YASIR
+    name        : Corporate
     designation : System Administrator
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
 
   - image       : images/team/saqib.jpg
-    name        : MUHAMMAD SAQIB KAMRAN
+    name        : Enterprise
     designation : Python Developer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/sheryar.jpg
-    name        : SHERYAR AHMED
-    designation : PHP Developer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/basit.jpg
-    name        : ABDUL BASIT
-    designation : Fullstack JavaScript Engineer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
-
-  - image       : images/team/jazib.jpg
-    name        : JAZIB ALI MINHAS
-    designation : Project Management
     medium      : https://www.medium.com/
     linkedIn    : https://www.linkedin.com/
     instagram   : https://www.instagram.com/
