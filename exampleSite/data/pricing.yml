@@ -1,44 +1,34 @@
 enable  : true
 title   : Best Package Plans
-members  :
-  - image       : images/team/atif.jpg
-    name        : Starter
-    designation : Web Designer & Developer
-    items: ["Home Page Banner Design"	,
-    "Contact Forms",
-    "Responsive Design",
-    "WordPress Platform",
-    "Content Pages	5 Pages",
-    "Mobile Optimized",
-    "Speed Optimization",		
-    "Content Management System",	
-    "Initial SEO Setup",	
-    "General Contact Form",		
-    "Chatbot/Livechat Setup",	
-    "Social Media Integration",		
-    "Submission To Search Engines",		
-    "Google Search Console Setup",	
-    "Google Map Integration",
-    "Promo Popup Design And Configuration",		
-    "Newsletter Integration",
-    "Google Analytics",
-    "Optimized Meta Tags",
-    "Photo Gallery",
-    "Domain & Hosting",
-    "Email Addresses",
-    "Social Media Optimized"
-    ]
-    
-  - image       : images/team/yasir.jpg
-    name        : Corporate
-    designation : System Administrator
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+subtitle: >
+  Offering these Professional Services to clients all over the world with quality and satisfaction. 
+item    :
+  - icon  : "images/feature/coding.svg"
+    title : Web Development
+    description : >
+        These days web presence is inevitable for most.
 
-  - image       : images/team/saqib.jpg
-    name        : Enterprise
-    designation : Python Developer
-    medium      : https://www.medium.com/
-    linkedIn    : https://www.linkedin.com/
-    instagram   : https://www.instagram.com/
+  - icon  : "images/feature/seo.svg"
+    title : Web Maintenance
+    description : >
+      Maintaining a good website is as important as the website.
+
+  - icon  : "images/feature/programming1.svg"
+    title : UX/UI Design
+    description : >
+      UX/UI Design We know the difference between User Experience (UX).
+
+  - icon  : "images/feature/shopping.svg"
+    title : E-Commerce Solutions
+    description : >
+      We are one stop shop for variety of E-Commerce solutions.
+
+  - icon  : "images/feature/domain.svg"
+    title : Domain & Hosting
+    description : >
+      Finding a reliable host and choosing a domain name can.
+  
+  - icon  : "images/feature/consultation.svg"
+    title : Consulting
+    description : >
+      Finding the right and budget oriented solution for business.
