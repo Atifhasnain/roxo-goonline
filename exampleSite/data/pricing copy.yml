@@ -1,0 +1,111 @@
+enable : true
+heading : "Best Package Plans"
+counter_item: 
+  - title: ""	            
+    number: "Services"
+    items: ["Home Page Banner Design"	,
+    "Contact Forms",
+    "Responsive Design",
+    "WordPress Platform",
+    "Content Pages	5 Pages",
+    "Mobile Optimized",
+    "Speed Optimization",		
+    "Content Management System",	
+    "Initial SEO Setup",	
+    "General Contact Form",		
+    "Chatbot/Livechat Setup",	
+    "Social Media Integration",		
+    "Submission To Search Engines",		
+    "Google Search Console Setup",	
+    "Google Map Integration",
+    "Promo Popup Design And Configuration",		
+    "Newsletter Integration",
+    "Google Analytics",
+    "Optimized Meta Tags",
+    "Photo Gallery",
+    "Domain & Hosting",
+    "Email Addresses",
+    "Social Media Optimized"
+    ]
+
+  - title: ""	            
+    number: "Starter"    
+    items: ["Home Page Banner Design"	,
+    "Contact Forms",
+    "image: images/team/atif.jpg",
+    "Responsive Design",
+    "WordPress Platform",
+    "Content Pages	5 Pages",
+    "Mobile Optimized",
+    "Speed Optimization",		
+    "Content Management System",	
+    "Initial SEO Setup",	
+    "General Contact Form",		
+    "Chatbot/Livechat Setup",	
+    "Social Media Integration",		
+    "Submission To Search Engines",		
+    "Google Search Console Setup",	
+    "Google Map Integration",
+    "Promo Popup Design And Configuration",		
+    "Newsletter Integration",
+    "Google Analytics",
+    "Optimized Meta Tags",
+    "Photo Gallery",
+    "Domain & Hosting",
+    "Email Addresses",
+    "Social Media Optimized"
+    ]
+
+  - title: ""	            
+    number: "Corporate"    
+    items: ["Home Page Banner Design"	,
+    "Contact Forms",
+    "Responsive Design",
+    "WordPress Platform",
+    "Content Pages 8 To 12 Pages",
+    "Mobile Optimized",
+    "Speed Optimization",		
+    "Content Management System",	
+    "Initial SEO Setup",	
+    "General Contact Form",		
+    "Chatbot/Livechat Setup",	
+    "Social Media Integration",		
+    "Submission To Search Engines",		
+    "Google Search Console Setup",	
+    "Google Map Integration",
+    "Promo Popup Design And Configuration",		
+    "Newsletter Integration",
+    "Google Analytics",
+    "Optimized Meta Tags",
+    "Photo Gallery",
+    "Domain & Hosting",
+    "Email Addresses",
+    "Social Media Optimized"
+    ]
+
+  - title: ""	            
+    number: "Enterprise"    
+    items: ["Home Page Banner Design"	,
+    "Contact Forms",
+    "Responsive Design",
+    "WordPress Platform",
+    "Content Pages	Up To 20",
+    "Mobile Optimized",
+    "Speed Optimization",		
+    "Content Management System",	
+    "Initial SEO Setup",	
+    "General Contact Form",		
+    "Chatbot/Livechat Setup",	
+    "Social Media Integration",		
+    "Submission To Search Engines",		
+    "Google Search Console Setup",	
+    "Google Map Integration",
+    "Promo Popup Design And Configuration",		
+    "Newsletter Integration",
+    "Google Analytics",
+    "Optimized Meta Tags",
+    "Photo Gallery",
+    "Domain & Hosting",
+    "Email Addresses",
+    "~~Social Media Optimized~~"
+    ]
