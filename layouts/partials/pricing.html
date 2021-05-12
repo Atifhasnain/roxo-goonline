@@ -8,8 +8,9 @@
             <h2 class="text-white">{{ .heading }}</h2>
           </div>
         </div>
-        {{ range .counter_item }}
+        
         <div class="col-3">
+          {{ range .counter_item }}
           <div class="col-3 col-md-6">
             <div class="site-counter-item">
               <h3 class="site-counter-item-number">{{ .number }}</h3>
@@ -23,7 +24,23 @@
             </div>
           </div>
         </div>
-        
+        <div class="col-9">
+          <div class="col-lg-9 col-md-6">
+            <div class="site-counter-item">
+              <h3 class="site-counter-item-number">{{ .number }}</h3>
+              <span class="site-counter-item-title">{{ .title }}</span>
+              <!-- <img src="{{ .image | absURL }}" alt="team-member"><br>
+              <img src="{{ .image | absURL }}" alt="team-member"> -->
+            </div>          
+            <div>
+              <ul class="site-counter-item-list">
+                {{ range .items }}
+                <li>{{ . }}</li>
+                {{ end }}
+              </ul>
+            </div>
+          </div>
+        </div>
         {{ end }}
       </div>
     </div>
