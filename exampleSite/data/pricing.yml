@@ -4,7 +4,7 @@ subtitle: >
   Price which makes you comfortable
 item    :
   - icon  : "images/feature/coding.svg"
-    title : Web Development
+    title : Starter
     items: ["Home Page Banner Design"	,
     "Contact Forms",
     "Responsive Design",
@@ -31,26 +31,55 @@ item    :
     ]
 
   - icon  : "images/feature/seo.svg"
-    title : Web Maintenance
-    description : >
-      Maintaining a good website is as important as the website.
+    title : Corporate
+    items: ["Home Page Banner Design"	,
+    "Contact Forms",
+    "Responsive Design",
+    "WordPress Platform",
+    "Content Pages	5 Pages",
+    "Mobile Optimized",
+    "Speed Optimization",		
+    "Content Management System",	
+    "Initial SEO Setup",	
+    "General Contact Form",		
+    "Chatbot/Livechat Setup",	
+    "Social Media Integration",		
+    "Submission To Search Engines",		
+    "Google Search Console Setup",	
+    "Google Map Integration",
+    "Promo Popup Design And Configuration",		
+    "Newsletter Integration",
+    "Google Analytics",
+    "Optimized Meta Tags",
+    "Photo Gallery",
+    "Domain & Hosting",
+    "Email Addresses",
+    "Social Media Optimized"
+    ]
 
   - icon  : "images/feature/programming1.svg"
-    title : UX/UI Design
-    description : >
-      UX/UI Design We know the difference between User Experience (UX).
-
-  - icon  : "images/feature/shopping.svg"
-    title : E-Commerce Solutions
-    description : >
-      We are one stop shop for variety of E-Commerce solutions.
-
-  - icon  : "images/feature/domain.svg"
-    title : Domain & Hosting
-    description : >
-      Finding a reliable host and choosing a domain name can.
-  
-  - icon  : "images/feature/consultation.svg"
-    title : Consulting
-    description : >
-      Finding the right and budget oriented solution for business.
+    title : Enterprise
+    items: ["Home Page Banner Design"	,
+    "Contact Forms",
+    "Responsive Design",
+    "WordPress Platform",
+    "Content Pages	5 Pages",
+    "Mobile Optimized",
+    "Speed Optimization",		
+    "Content Management System",	
+    "Initial SEO Setup",	
+    "General Contact Form",		
+    "Chatbot/Livechat Setup",	
+    "Social Media Integration",		
+    "Submission To Search Engines",		
+    "Google Search Console Setup",	
+    "Google Map Integration",
+    "Promo Popup Design And Configuration",		
+    "Newsletter Integration",
+    "Google Analytics",
+    "Optimized Meta Tags",
+    "Photo Gallery",
+    "Domain & Hosting",
+    "Email Addresses",
+    "Social Media Optimized"
+    ]
