@@ -35,6 +35,9 @@
       padding: 15px 18px;
       position: relative;
     }
+    &:hover {
+      color: red;
+    }
     &:last-child{
       margin-left: 15px;
     }
