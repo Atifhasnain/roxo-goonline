@@ -76,4 +76,4 @@ collections:
           - {label: Heading, name: heading, widget: string}
           - {label: Description, name: description, widget: string}
           - {label: Expertise Title, name: expertise_title, widget: string}
-          - {label: Expertise List, name: expertise_sectors, widget: list}
+          - {label: Expertise List, name: expertise_sectors, widget: string}
