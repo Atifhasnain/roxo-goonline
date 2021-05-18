@@ -1,7 +1,7 @@
 enable  : true
 title   : Package Plans
 subtitle: >
-  Best prices which makes you comfortable
+  Offering economical prices, which makes you think about online presence
 item    :
   - icon  : "images/feature/best-price.svg"
     title : Starter $120

@@ -87,7 +87,7 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "Have Questions? Contact us for Answers"
+    title               = "Call Us for Any Questions"
     primary_button      = "Submit Question"
     primary_button_url  = "contact"
     secondary_button    = "Confused"
