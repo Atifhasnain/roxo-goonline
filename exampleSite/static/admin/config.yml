@@ -43,11 +43,10 @@ collections:
         name: "contact"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: Heading, name: heading, widget: string}
-          - {label: description, name: description, widget: markdown}
-          - {label: Expertise Title, name: expertise_title, widget: string}
-          - label: Expertise List
-            name: expertise_sectors
+          - {label: Logo, name: logo, widget: image}
+          - {label: Body, name: body, widget: markdown}
+          - label: Contact Entries
+            name: contact_entries
             widget: list
             fields:
               - label: Heading
@@ -70,15 +69,20 @@ collections:
       #     - {label: Full_image, name: full_image, widget: image}
       #     - {label: Pricing, name: pricing, widget: object, fields: [{label: Heading, name: heading, widget: string}, {label: Description, name: description, widget: string}, {label: Plans, name: plans, widget: list, fields: [{label: Plan, name: plan, widget: string}, {label: Price, name: price, widget: string}, {label: Description, name: description, widget: string}, {label: Items, name: items, widget: list}]}]}
       - file: "exampleSite/content/about/_index.md"
-        label: "Values Page"
-        name: "values"
-        fields:
+        label: "About Page"
+        name: "about"
+        fields:          
           - {label: Title, name: title, widget: string}
-          - {label: Image, name: image, widget: image}
-          - label: Values
-            name: values
+          - {label: Heading, name: heading, widget: string}
+          - {label: Description, name: description, widget: markdown}
+          - {label: Expertise Title, name: expertise_title, widget: string}
+          - label: Expertise List
+            name: expertise_sectors
             widget: list
             fields:
-              - {label: Heading, name: heading, widget: string}
-              - {label: Text, name: text, widget: text}
-              - {label: Image, name: imageUrl, widget: image}
+              - label: Heading
+                name: heading
+                widget: string
+              - label: Text
+                name: text
+                widget: text
