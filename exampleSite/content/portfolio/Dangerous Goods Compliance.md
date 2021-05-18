@@ -1,8 +1,8 @@
 ---
-title: "KIO TAPE"
+title: "Dangerous Goods Compliance"
 date: 2019-12-23T15:44:46+06:00
 type: portfolio
-image: "images/projects/profile-city.jpg"
+image: "images/projects/dgc.jpg"
 category: ["PRODUCT LABEL"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
 ---
