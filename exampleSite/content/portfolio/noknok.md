@@ -1,5 +1,5 @@
 ---
-title: "Babaz Plus Shawarma"
+title: "Nok Nok White Paper"
 date: 2019-12-23T15:56:43+06:00
 type: portfolio
 image: "images/projects/noknok.png"
