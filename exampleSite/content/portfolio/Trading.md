@@ -1,5 +1,5 @@
 ---
-title: "222 Trading Website"
+title: "222 Trading"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/222icu.png"
