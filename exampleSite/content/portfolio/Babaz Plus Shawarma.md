@@ -7,4 +7,4 @@ category: ["PRODUCT DESIGN"]
 project_images: ["images/projects/babazplusfull.png"]
 ---
 
-Website Link: (https://www.babazplus.ca/)
+Website Link: https://www.babazplus.ca/
