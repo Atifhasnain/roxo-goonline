@@ -7,4 +7,6 @@ category: ["PRODUCT DESIGN"]
 project_images: ["images/projects/babazplusfull.png"]
 ---
 
-Website Link: https://www.babazplus.ca/
+Website Link: https://babazplus.ca/
+
+Custom designed website for restaurant in WordPress.
