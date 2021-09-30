@@ -5,6 +5,6 @@ type: portfolio
 image: "images/projects/babazplus.png"
 category: ["PRODUCT DESIGN"]
 project_images: ["images/projects/project-details-image-one.jpg", "images/projects/project-details-image-two.jpg"]
----
 
 [babazplus.ca] (https://www.babazplus.ca/)
+---
