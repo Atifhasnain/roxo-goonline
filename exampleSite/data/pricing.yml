@@ -1,78 +1,40 @@
 enable  : true
 title   : Package Plans
 subtitle: >
-  Offering economical prices, which makes you think about online presence
+  Affordable packages, to start your online journey
 item    :
   - icon  : "images/feature/best-price.svg"
-    title : Starter $120
-    items: ["Home Page Banner Design",
-    "Contact Forms",
-    "Responsive Design",
-    "WordPress Platform",
-    "Content Pages	5 Pages",
-    "Mobile Optimized",
-    "Speed Optimization",		
-    "Content Management System",	
-    "Initial SEO Setup",	
-    "General Contact Form",		
-    "Chatbot/Livechat Setup",	
-    "Social Media Integration",		
-    "Submission To Search Engines",		
-    "Google Search Console Setup",	
-    "Google Map Integration",
-    "Promo Popup Design And Configuration",
+    title : Starter $150
+    items: ["Basic Website/Landing Page",
+    "Social Media Integration",
+    "Basic SEO",
+    "Mobile Responsive",
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : Corporate $250
-    items: ["Home Page Banner Design"	,
-    "Contact Forms",
-    "Responsive Design",
-    "WordPress Platform",
-    "Content Pages	5 Pages",
-    "Mobile Optimized",
-    "Speed Optimization",		
-    "Content Management System",	
-    "Initial SEO Setup",	
-    "General Contact Form",		
-    "Chatbot/Livechat Setup",	
-    "Social Media Integration",		
-    "Submission To Search Engines",		
-    "Google Search Console Setup",	
-    "Google Map Integration",
-    "Promo Popup Design And Configuration",		
+    title : Corporate $300
+    items: ["Free Domain & Hosting",
+    "4-5 Page Layout",
+    "Social Media Integration",
+    "Intermediate SEO",
+    "Mobile Responsive",
+    "Chatbot Setup",
     "Newsletter Integration",
-    "Google Analytics",
-    "Optimized Meta Tags",
-    "Photo Gallery",
-    "1 Year Domain & Hosting",
-    "10 Email Addresses",
+    "1 Custom Email i.e. xyz@yourdomain.com",
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : Enterprise $380
-    items: ["Home Page Banner Design"	,
-    "Contact Forms",
-    "Responsive Design",
-    "WordPress Platform",
-    "Content Pages	5 Pages",
-    "Mobile Optimized",
-    "Speed Optimization",		
-    "Content Management System",	
-    "Initial SEO Setup",	
-    "General Contact Form",		
-    "Chatbot/Livechat Setup",	
-    "Social Media Integration",		
-    "Submission To Search Engines",		
-    "Google Search Console Setup",	
-    "Google Map Integration",
-    "Promo Popup Design And Configuration",		
+    title : Enterprise $450
+    items: ["Free Domain & Hosting",
+    "5-8 Page Layout",
+    "Social Media Integration",
+    "Advanced SEO",
+    "Mobile Responsive",
+    "Chatbot Setup",
+    "Messenger/Whatsapp Integration"
     "Newsletter Integration",
-    "Google Analytics",
-    "Optimized Meta Tags",
-    "Photo Gallery",
-    "1 Year Domain & Hosting",
-    "20 Email Addresses",
-    "Social Media Optimized"
+    "3 Custom Emails i.e. xyz@yourdomain.com",
+    "Google Listing",
+    "One Month Free Maintenance",
     ]
     
