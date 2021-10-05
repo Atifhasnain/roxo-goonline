@@ -72,7 +72,7 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/slider.jpg"
-    heading               = "We know how build Website, don't worry about Technicalities"
+    heading               = "We know how to build Website, don't worry about Technicalities"
     tagline               = "Ready to Go Online, Scale Your Business"
     primary_button        = "View Our Work"
     primary_button_url    = "portfolio"
