@@ -6,3 +6,7 @@ image: "images/projects/dgc.png"
 category: ["PRODUCT LABEL"]
 project_images: ["images/projects/dgcfull.png"]
 ---
+
+Website Link: https://dgc.net.au/
+
+WordPress Customizations based on Client requirements.

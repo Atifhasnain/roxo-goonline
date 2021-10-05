@@ -9,4 +9,4 @@ project_images: ["images/projects/babazplusfull.png"]
 
 Website Link: https://babazplus.ca/
 
-Custom designed website for restaurant in WordPress.
+WordPress Custom designed website for restaurant using Elementor Pro.

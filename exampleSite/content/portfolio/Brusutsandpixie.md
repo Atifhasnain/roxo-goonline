@@ -6,3 +6,9 @@ image: "images/projects/brusutsandpixie.png"
 category: ["Web Development - PHP"]
 project_images: ["images/projects/brusutsandpixiefull.png"]
 ---
+
+Website Link: https://brutusandpixie.com/
+
+WordPress Blog Website.
+
+Pet Stories, Comics, Art and Illustrations
