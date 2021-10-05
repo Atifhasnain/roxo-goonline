@@ -6,3 +6,7 @@ image: "images/projects/lazybumlgeggings.png"
 category: ["REBRAND"]
 project_images: ["images/projects/lazybumleggingsfull.png"]
 ---
+
+Website Link: https://lazybumleggings.com/
+
+WordPress based eCommerce store using WooCommerce.

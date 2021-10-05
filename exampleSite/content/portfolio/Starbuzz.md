@@ -6,3 +6,7 @@ image: "images/projects/starbuzz.png"
 category: ["REBRAND"]
 project_images: ["images/projects/starbuzzfull.png"]
 ---
+
+Website Link: https://starbuzz.life/
+
+WordPress Custom designed website for parties and events booking using Elementor Pro.

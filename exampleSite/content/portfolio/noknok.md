@@ -6,3 +6,7 @@ image: "images/projects/noknok.png"
 category: ["PRODUCT DESIGN"]
 project_images: ["images/projects/noknokfull.png"]
 ---
+
+Website Link: http://whitepaper.noknok.org/
+
+WordPress based single page whitepaper using elementor.

@@ -6,3 +6,9 @@ image: "images/projects/pixiebrutus.png"
 category: ["REBRAND"]
 project_images: ["images/projects/pixiebrutusfull.png"]
 ---
+
+Website Link: https://pixiebrutus.com/
+
+WordPress Blog Website.
+
+Pet Stories, Comics, Art and Illustrations.

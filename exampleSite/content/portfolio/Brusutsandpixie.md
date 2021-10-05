@@ -11,4 +11,4 @@ Website Link: https://brutusandpixie.com/
 
 WordPress Blog Website.
 
-Pet Stories, Comics, Art and Illustrations
+Pet Stories, Comics, Art and Illustrations.

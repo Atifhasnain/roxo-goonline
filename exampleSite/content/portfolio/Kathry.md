@@ -6,3 +6,7 @@ image: "images/projects/kdouglas.png"
 category: ["REBRAND"]
 project_images: ["images/projects/kdouglasfull.png"]
 ---
+
+Website Link: https://kdouglas.com.au/
+
+WordPress based custom designed website for beauty products using Elementor Pro. Multi Level Marketing Integartion using Premium Plugins.
