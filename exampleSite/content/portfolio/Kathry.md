@@ -3,7 +3,7 @@ title: "Goddess Apothecary"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
 image: "images/projects/kdouglas.png"
-category: ["REBRAND"]
+category: ["WordPress - Custom Design"]
 project_images: ["images/projects/kdouglasfull.png"]
 ---
 

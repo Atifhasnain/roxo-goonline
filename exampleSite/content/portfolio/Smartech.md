@@ -3,7 +3,7 @@ title: "Smartech Door Systems"
 date: 2019-12-23T15:55:44+06:00
 type: portfolio
 image: "images/projects/smartechdoorsystems.png"
-category: ["REBRAND"]
+category: ["WordPress - Customizations"]
 project_images: ["images/projects/smartechdoorsystemsfull.png"]
 ---
 

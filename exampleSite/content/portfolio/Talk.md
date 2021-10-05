@@ -3,7 +3,7 @@ title: "222 Talk"
 date: 2019-12-23T20:56:42+06:00
 type: portfolio
 image: "images/projects/222talk.png"
-category: ["Web Development - PHP"]
+category: ["WordPress - Custom Design"]
 project_images: ["images/projects/222talkfull.png"]
 ---
 

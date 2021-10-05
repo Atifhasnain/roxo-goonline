@@ -4,37 +4,26 @@ subtitle: >
   Affordable packages, to start your online journey
 item    :
   - icon  : "images/feature/best-price.svg"
-    title : Starter $150
-    items: ["Basic Website/Landing Page",
+    title : Web Design ($200 Starting)
+    items: ["Free Domain & Hosting",
+    "SEO & Security Optimized",
     "Social Media Integration",
-    "Basic SEO",
-    "Mobile Responsive",
+    "& As required",
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : Corporate $300
-    items: ["Free Domain & Hosting",
-    "4-5 Page Layout",
-    "Social Media Integration",
-    "Intermediate SEO",
-    "Mobile Responsive",
-    "Chatbot Setup",
-    "Newsletter Integration",
-    "1 Custom Email i.e. xyz@yourdomain.com",
+    title : Graphic Design ($50 Starting)
+    items: ["Logo Design",
+    "Fast Delivery",
+    "Affordable Price",
+    "Revisions until 100% Satisfacton",
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : Enterprise $450
+    title : eCommerce Store ($300 Starting)
     items: ["Free Domain & Hosting",
-    "5-8 Page Layout",
+    "Paymnent Integarion(WooCommerce)",
     "Social Media Integration",
-    "Advanced SEO",
-    "Mobile Responsive",
-    "Chatbot Setup",
-    "Messenger/Whatsapp Integration",
-    "Newsletter Integration",
-    "3 Custom Emails i.e. xyz@yourdomain.com",
-    "Google Listing",
-    "One Month Free Maintenance",
+    "& As required",
     ]
     
