@@ -122,10 +122,10 @@ summarylength = 25
           name = "Facebook"
           url  = "https://facebook.com/goonline.dev"
         [[params.footer.social.link]]
-          name = "Medium"
+          name = "Linkedin"
           url  = "#"
         [[params.footer.social.link]]
-          name = "Linkedin"
+          name = "Youtube"
           url  = "#"
         [[params.footer.social.link]]
           name = "Behance"
@@ -133,4 +133,4 @@ summarylength = 25
       # Footer Service
       [params.footer.service]
         title       = "We help you to:"
-        description = "make online presence<br>gow your business online<br>"
+        description = "build websites and<br>gow your business online<br>"
