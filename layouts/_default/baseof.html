@@ -3,7 +3,16 @@
     {{- partial "head.html" . -}}
     <head><script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
           <script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/c694f2f0792bcc17f9d4af2a8/0f280a2ecb513b461dec00afe.js");</script>
-    </head>
+          <script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script>
+          <script>
+            window.OneSignal = window.OneSignal || [];
+            OneSignal.push(function() {
+              OneSignal.init({
+                appId: "c87f347a-ea83-4d2b-b5a1-ccad5ad9e71b",
+              });
+            });
+          </script>
+        </head>
     <body>
         {{- partial "header.html" . -}}
         <main>
