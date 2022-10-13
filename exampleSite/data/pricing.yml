@@ -4,7 +4,7 @@ subtitle: >
   Affordable packages, to start your online journey
 item    :
   - icon  : "images/feature/best-price.svg"
-    title : Web Design ($200 Starting)
+    title : Static/Portfolio ($200 Starting)
     items: ["Free Domain & Hosting",
     "SEO & Security Optimized",
     "Social Media Integration",
@@ -12,17 +12,15 @@ item    :
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : Graphic Design ($50 Starting)
-    items: ["Logo Design",
-    "Fast Delivery",
+    title : eCommerce Store ($300 Starting)
+    items: ["Paymnent Integarion(WooCommerce)",
     "Affordable Price",
     "Revisions until 100% Satisfacton",
     ]
 
   - icon  : "images/feature/best-price.svg"
-    title : eCommerce Store ($300 Starting)
+    title : Headless CMS ($250 Starting)
     items: ["Free Domain & Hosting",
-    "Paymnent Integarion(WooCommerce)",
     "Social Media Integration",
     "& As required",
     ]

@@ -97,7 +97,7 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Contact Info"
-      address = "Lahore, Pakistan"
+      address = "115 G2, Wapda Town, Lahore, Pakistan"
       phone   = "+92-321-2956633"
       email   = "info@goonline.dev"
       # Footer Sitemap
@@ -133,4 +133,4 @@ summarylength = 25
       # Footer Service
       [params.footer.service]
         title       = "We help you to:"
-        description = "build websites and<br>gow your business online<br>"
+        description = "build websites and<br>grow your business online<br>"
