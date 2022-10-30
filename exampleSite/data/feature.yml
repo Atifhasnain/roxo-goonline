@@ -4,31 +4,16 @@ subtitle: >
   With our ever-growing expertise in the industry, you can rely on us for all your business needs.
 item    :
   - icon  : "images/feature/coding.svg"
-    title : Web Development
+    title : STATIC SITE
     description : >
-        These days web presence is inevitable for most.
-
-  - icon  : "images/feature/seo.svg"
-    title : Web Maintenance
-    description : >
-      Maintaining a good website is as important as the website.
-
-  - icon  : "images/feature/programming1.svg"
-    title : UX/UI Design
-    description : >
-      UX/UI Design We know the difference between User Experience (UX).
+        Get static site to showcase your work. Starting from $100. 
 
   - icon  : "images/feature/shopping.svg"
-    title : E-Commerce Solutions
+    title : ECOMMERCE
     description : >
-      We are one stop shop for variety of E-Commerce solutions.
+      We provide variety of E-Commerce solutions like WooCommerce, Shopify & Saleor. Starting from $250.
 
-  - icon  : "images/feature/domain.svg"
-    title : Domain & Hosting
+  - icon  : "images/feature/programming1.svg"
+    title : CMS
     description : >
-      Finding a reliable host and choosing a domain name can.
-  
-  - icon  : "images/feature/consultation.svg"
-    title : Consulting
-    description : >
-      Finding the right and budget oriented solution for business.
+      Get your blog or dynamic site hosted on VPS. Starting from $150.
