@@ -41,7 +41,7 @@ summarylength = 25
   description = "Roxo Hugo themes | Design Agency Template by StaticMania"
   author = "StaticMania"
   # Google Analitycs
-  googleAnalitycsID = "G-4SMVCST1FZ"
+  googleAnalitycsID = "UA-96991947-8"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/f/xvodgrwe"
 
