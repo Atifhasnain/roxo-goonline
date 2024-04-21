@@ -1,14 +1,12 @@
 enable : true
-heading : "Connecting Businesses with Technology"
+heading : "Driving Business Evolution Through Technology"
 counter_item: 
-  - title: "Logo Designs"
-    number: "100"
     
   - title: "Web Designs"
-    number: "250"
+    number: "20"
 
   - title: "Live Projects"
-    number: "180"
+    number: "30"
 
   - title: "Clients"
     number: "50"
