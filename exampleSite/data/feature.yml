@@ -7,6 +7,10 @@ item    :
     title : Website Development
     description: >
       Tailored solutions for businesses seeking unique, branded online experiences. Utilizing the latest technologies and design principles to create responsive, user-friendly websites.
+    title: Custom Website Development
+    description:
+      Tailored solutions for businesses seeking unique, branded online experiences. 
+      
     items: [
       "Custom Website Development": "Tailored solutions for businesses seeking unique, branded online experiences.",
       "Content Management Systems (CMS)": "Integration of robust CMS platforms like WordPress, Drupal, or custom-built solutions, empowering clients to easily manage and update their website content.",
