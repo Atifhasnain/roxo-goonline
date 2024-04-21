@@ -28,8 +28,12 @@
             </div>
             <p class="site-testimonial-item-body">
               {{ .description }}
-              {{ .features }}
             </p>
+            <ul class="site-counter-item-list">
+              {{ range .items }}
+              <li>{{ . }}</li>
+              {{ end }}
+            </ul>
           </div>
         </div>
         

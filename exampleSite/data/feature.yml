@@ -7,12 +7,13 @@ item    :
     title : Website Development
     description: >
       Tailored solutions for businesses seeking unique, branded online experiences. Utilizing the latest technologies and design principles to create responsive, user-friendly websites.
-    features:
-      - "Custom Website Development": "Tailored solutions for businesses seeking unique, branded online experiences."
-      - "Content Management Systems (CMS)": "Integration of robust CMS platforms like WordPress, Drupal, or custom-built solutions, empowering clients to easily manage and update their website content."
-      - "Responsive Design": "Ensuring websites look and perform seamlessly across all devices, providing an optimal user experience and maximizing engagement."
-      - "Custom Features and Functionality": "Offering bespoke development of features such as contact forms, interactive elements, and custom plugins to meet specific business requirements."
-      - "Scalable Solutions": "Building websites that can grow with businesses, accommodating increased traffic, content, and functionality over time."
+    items: [
+      "Custom Website Development": "Tailored solutions for businesses seeking unique, branded online experiences.",
+      "Content Management Systems (CMS)": "Integration of robust CMS platforms like WordPress, Drupal, or custom-built solutions, empowering clients to easily manage and update their website content.",
+      "Responsive Design": "Ensuring websites look and perform seamlessly across all devices, providing an optimal user experience and maximizing engagement.",
+      "Custom Features and Functionality": "Offering bespoke development of features such as contact forms, interactive elements, and custom plugins to meet specific business requirements.",
+      "Scalable Solutions": "Building websites that can grow with businesses, accommodating increased traffic, content, and functionality over time.",
+      ]
  
 
   - icon  : "images/feature/shopping.svg"
