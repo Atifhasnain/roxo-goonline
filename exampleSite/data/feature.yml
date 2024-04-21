@@ -4,7 +4,7 @@ subtitle: >
   Tailored Solutions for Your Online Success, Where Innovation Meets Implementation
 item    :
   - icon  : "images/feature/coding.svg"
-    title : WEB DEVELOPMENT
+    title : Website Development
     description: >
       Tailored solutions for businesses seeking unique, branded online experiences. Utilizing the latest technologies and design principles to create responsive, user-friendly websites.
     features:
@@ -16,7 +16,7 @@ item    :
  
 
   - icon  : "images/feature/shopping.svg"
-    title : ECOMMERCE
+    title : Ecommerce Store Building
     description: >
       Crafting tailored online stores that align with clients' brand identity and business goals, integrating essential features like product catalog management, secure payment gateways, and order management systems.
     features:
@@ -28,7 +28,7 @@ item    :
 
 
   - icon  : "images/feature/programming1.svg"
-    title : CMS
+    title : Static Website Building
     description: >
       Creating visually stunning and user-friendly portfolios to showcase clients' work, talents, or accomplishments, helping them stand out in their respective industries.
     features:
