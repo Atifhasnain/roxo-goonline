@@ -22,8 +22,8 @@
                 </div>
                 <p class="site-testimonial-item-body">{{ .description }}</p>
                 <ul class="site-testimonial-item-features">
-                  {{ range.features }}
-                    <li> . </li>
+                  {{ range .items }}
+                    <li>{{ .feature }}: {{ .description }}</li>
                   {{ end }}
                 </ul>
               </div>

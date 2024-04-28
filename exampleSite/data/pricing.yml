@@ -1,27 +1,41 @@
-enable  : true
-title   : Package Plans
+enable: true
+title: Package Plans
 subtitle: >
   Affordable packages, to start your online journey
-item    :
-  - icon  : "images/feature/best-price.svg"
-    title : Static/Portfolio ($200 Starting)
-    items: ["Free Domain & Hosting",
-    "SEO & Security Optimized",
-    "Social Media Integration",
-    "& As required",
-    ]
+item:
+  - icon: "images/feature/best-price.svg"
+    title: "Static/Portfolio ($200 Starting)"
+    description: "Ideal for individuals or businesses looking to establish an online presence with a static website or portfolio."
+    items:
+      - feature: "Free Domain & Hosting"
+        description: "Get your domain name and hosting included at no extra cost."
+      - feature: "SEO & Security Optimized"
+        description: "Ensure your website is optimized for search engines and secured against potential threats."
+      - feature: "Social Media Integration"
+        description: "Seamlessly integrate your social media profiles with your website to expand your online presence."
+      - feature: "& As required"
+        description: "Customize the design and functionality of your website to meet your specific needs."
 
-  - icon  : "images/feature/best-price.svg"
-    title : eCommerce Store ($300 Starting)
-    items: ["Paymnent Integarion(WooCommerce)",
-    "Affordable Price",
-    "Revisions until 100% Satisfacton",
-    ]
+  - icon: "images/feature/best-price.svg"
+    title: "Ecommerce Store ($300 Starting)"
+    description: "Perfect for businesses looking to sell products or services online through a fully functional ecommerce store."
+    items:
+      - feature: "Free Domain & Hosting"
+        description: "Get your domain name and hosting included at no extra cost."
+      - feature: "Payment Integration (WooCommerce)"
+        description: "Integrate WooCommerce for seamless payment processing and management of your online store."
+      - feature: "Affordable Price"
+        description: "Get started with an affordable pricing plan that fits your budget."
+      - feature: "Revisions until 100% Satisfaction"
+        description: "Enjoy unlimited revisions until you're 100% satisfied with the design and functionality of your ecommerce store."
 
-  - icon  : "images/feature/best-price.svg"
-    title : Headless CMS ($250 Starting)
-    items: ["Free Domain & Hosting",
-    "Social Media Integration",
-    "& As required",
-    ]
-    
+  - icon: "images/feature/best-price.svg"
+    title: "Website Development ($250 Starting)"
+    description: "Opt for a flexible website development solution to meet your unique business needs."
+    items:
+      - feature: "Free Domain & Hosting"
+        description: "Get your domain name and hosting included at no extra cost."
+      - feature: "Social Media Integration"
+        description: "Connect your website seamlessly with your social media accounts for increased engagement and visibility."
+      - feature: "& As required"
+        description: "Customize the design and functionality of your website to meet your specific needs."
