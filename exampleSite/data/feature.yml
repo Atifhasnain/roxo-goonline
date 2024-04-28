@@ -5,42 +5,33 @@ subtitle: >
 item:
   - icon: "images/feature/coding.svg"
     title: Website Development
+    description: >
+      Tailored solutions for businesses seeking unique, branded online experiences. Utilizing the latest technologies and design principles to create responsive, user-friendly websites.
     features:
-      - title: Custom Website Development
-        description: We craft custom websites tailored to your specific needs.
-      - title: Content Management Systems (CMS)
-        description: We implement powerful CMS solutions to help you manage your website content with ease.
-      - title: Responsive Design
-        description: Our websites are designed to provide optimal viewing experience across all devices.
-      - title: Custom Features and Functionality
-        description: We develop unique features and functionality to enhance your website's performance.
-      - title: Scalable Solutions
-        description: Our websites are built to scale and grow alongside your business.
+      - "Custom Website Development": "Tailored solutions for businesses seeking unique, branded online experiences."
+      - "Content Management Systems (CMS)": "Integration of robust CMS platforms like WordPress, Drupal, or custom-built solutions, empowering clients to easily manage and update their website content."
+      - "Responsive Design": "Ensuring websites look and perform seamlessly across all devices, providing an optimal user experience and maximizing engagement."
+      - "Custom Features and Functionality": "Offering bespoke development of features such as contact forms, interactive elements, and custom plugins to meet specific business requirements."
+      - "Scalable Solutions": "Building websites that can grow with businesses, accommodating increased traffic, content, and functionality over time."
 
   - icon: "images/feature/shopping.svg"
     title: Ecommerce Store Building
+    description: >
+      Crafting tailored online stores that align with clients' brand identity and business goals, integrating essential features like product catalog management, secure payment gateways, and order management systems.
     features:
-      - title: Custom Ecommerce Solutions
-        description: We create tailored ecommerce solutions that align with your brand and business goals.
-      - title: Platform Expertise
-        description: We have extensive experience with various ecommerce platforms.
-      - title: Conversion Optimization
-        description: We optimize your ecommerce store to maximize conversions and increase sales.
-      - title: Mobile Commerce (M-commerce)
-        description: We ensure your ecommerce store is fully optimized for mobile devices.
-      - title: Payment Gateway Integration
-        description: We integrate secure payment gateways for seamless transactions.
+      - "Custom Ecommerce Solutions": "Crafting tailored online stores that align with clients' brand identity and business goals."
+      - "Platform Expertise": "Proficiency in popular ecommerce platforms such as Shopify, WooCommerce, Magento, and custom-built solutions, ensuring clients have the right platform for their unique needs."
+      - "Conversion Optimization": "Implementing strategies to enhance user experience, streamline the purchase process, and drive higher conversion rates, ultimately maximizing sales and revenue."
+      - "Mobile Commerce (M-commerce)": "Developing mobile-friendly ecommerce solutions to capture the growing segment of mobile shoppers, ensuring seamless shopping experiences across devices."
+      - "Payment Gateway Integration": "Integrating secure payment gateways to provide customers with a smooth and trustworthy checkout process, supporting various payment methods and currencies."
 
   - icon: "images/feature/programming1.svg"
     title: Static Website Building
+    description: >
+      Creating visually stunning and user-friendly portfolios to showcase clients' work, talents, or accomplishments, helping them stand out in their respective industries.
     features:
-      - title: Portfolio Websites
-        description: We create stunning portfolio websites to showcase your work.
-      - title: Landing Pages
-        description: We design impactful landing pages to drive conversions and capture leads.
-      - title: Informational Websites
-        description: We develop informative websites to provide valuable content to your audience.
-      - title: Quick Deployment
-        description: We ensure fast and efficient deployment of your static website.
-      - title: Minimal Maintenance
-        description: Our static websites require minimal ongoing maintenance.
+      - "Portfolio Websites": "Creating visually stunning and user-friendly portfolios to showcase clients' work, talents, or accomplishments."
+      - "Landing Pages": "Designing impactful landing pages to promote products, services, events, or special offers, optimized for conversions and lead generation."
+      - "Informational Websites": "Building informative websites for businesses or individuals looking to share knowledge, resources, or insights with their audience, enhancing credibility and authority."
+      - "Quick Deployment": "Offering rapid development and deployment of static websites, ideal for clients seeking a swift online presence without the complexity of dynamic content management."
+      - "Minimal Maintenance": "Providing low-maintenance solutions that require minimal updates or ongoing management, allowing clients to focus on their core activities without the hassle of regular website maintenance."
