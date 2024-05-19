@@ -81,8 +81,8 @@ summarylength = 25
 
   [params.portfolio]
     enable    = true
-    title     = "OUR WORK"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "OUR EXPERTISE IN ACTION"
+    subtitle  = "Creating seamless, engaging, and impactful digital experiences. We turn challenges into elegant solutions"
 
   [params.call_to_action]
     enable              = true
