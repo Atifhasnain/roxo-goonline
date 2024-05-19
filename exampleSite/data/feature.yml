@@ -7,16 +7,19 @@ item:
     title: Website Development
     description: >
       Empower your online presence with our expert website development services. Whether you need a simple static website or a dynamic, interactive web application, our team has the skills and experience to bring your vision to life. From sleek and modern designs to robust backend functionality, we'll create a website that not only looks great but also performs seamlessly across all devices.
+    
     heading: "Get your business online with a professionally designed website tailored to your brand:"
     items:
       - Free Domain & Hosting
       - SEO & Security Optimized
       - Social Media Integration
       - Customizable Design Options
+    price: "$250 Starting"
   - icon: "images/feature/shopping.svg"
     title: Ecommerce Store Building
     description: >
       Take your business to new heights with our comprehensive ecommerce solutions. From setting up your online store using WooCommerce, Saleor, or other cutting-edge tools to integrating payment gateways and managing inventory, we'll handle every aspect of your ecommerce journey. Our goal is to provide you with a user-friendly, secure, and scalable ecommerce platform that maximizes sales and customer satisfaction.
+    
     heading: "Start selling online with a powerful ecommerce solution tailored to your business:"
     items:
       - Payment Integration (WooCommerce)
@@ -28,6 +31,7 @@ item:
     title: Static Website Building
     description: >
       Looking for a lightning-fast, secure, and cost-effective solution for your online presence? Our static website development services are perfect for you. Whether you need a simple portfolio website, a corporate landing page, or a sleek blog, we'll leverage the power of Hugo to deliver a website that exceeds your expectations. With fast load times, SEO-friendly structure, and hassle-free maintenance, you'll have a powerful online presence without the complexity of traditional CMS platforms.
+    
     heading: "Create a stunning online presence with a lightning-fast static website:"
     items:
       - Free Domain & Hosting
