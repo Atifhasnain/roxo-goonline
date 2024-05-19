@@ -1,41 +1,31 @@
 enable: true
 title: Package Plans
 subtitle: >
-  Affordable packages, to start your online journey
+  Choose from our tailored service packages designed to meet your unique business needs
 item:
   - icon: "images/feature/best-price.svg"
-    title: "Static/Portfolio ($200 Starting)"
-    description: "Ideal for individuals or businesses looking to establish an online presence with a static website or portfolio."
+    title: "Website Development ($250 Starting)"
+    description: "Get your business online with a professionally designed website tailored to your brand:"
     items:
-      - feature: "Free Domain & Hosting"
-        description: "Get your domain name and hosting included at no extra cost."
-      - feature: "SEO & Security Optimized"
-        description: "Ensure your website is optimized for search engines and secured against potential threats."
-      - feature: "Social Media Integration"
-        description: "Seamlessly integrate your social media profiles with your website to expand your online presence."
-      - feature: "& As required"
-        description: "Customize the design and functionality of your website to meet your specific needs."
+      - Free Domain & Hosting
+      - SEO & Security Optimized
+      - Social Media Integration
+      - Customizable Design Options
 
   - icon: "images/feature/best-price.svg"
     title: "Ecommerce Store ($300 Starting)"
-    description: "Perfect for businesses looking to sell products or services online through a fully functional ecommerce store."
+    description: "Start selling online with a powerful ecommerce solution tailored to your business:"
     items:
-      - feature: "Free Domain & Hosting"
-        description: "Get your domain name and hosting included at no extra cost."
-      - feature: "Payment Integration (WooCommerce)"
-        description: "Integrate WooCommerce for seamless payment processing and management of your online store."
-      - feature: "Affordable Price"
-        description: "Get started with an affordable pricing plan that fits your budget."
-      - feature: "Revisions until 100% Satisfaction"
-        description: "Enjoy unlimited revisions until you're 100% satisfied with the design and functionality of your ecommerce store."
+      - Payment Integration (WooCommerce)
+      - Affordable Pricing
+      - Unlimited Revisions until 100% Satisfaction
+      - Responsive Design for All Devices
 
   - icon: "images/feature/best-price.svg"
-    title: "Website Development ($250 Starting)"
-    description: "Opt for a flexible website development solution to meet your unique business needs."
+    title: "Static Website Development ($200 Starting)"
+    description: "Create a stunning online presence with a lightning-fast static website:"
     items:
-      - feature: "Free Domain & Hosting"
-        description: "Get your domain name and hosting included at no extra cost."
-      - feature: "Social Media Integration"
-        description: "Connect your website seamlessly with your social media accounts for increased engagement and visibility."
-      - feature: "& As required"
-        description: "Customize the design and functionality of your website to meet your specific needs."
+      - Free Domain & Hosting
+      - Social Media Integration
+      - Customizable Design Options
+      - Fast Load Times for Improved User Experience

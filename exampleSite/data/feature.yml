@@ -7,12 +7,10 @@ item:
     title: Website Development
     description: >
       Empower your online presence with our expert website development services. Whether you need a simple static website or a dynamic, interactive web application, our team has the skills and experience to bring your vision to life. From sleek and modern designs to robust backend functionality, we'll create a website that not only looks great but also performs seamlessly across all devices.
-
   - icon: "images/feature/shopping.svg"
     title: Ecommerce Store Building
     description: >
       Take your business to new heights with our comprehensive ecommerce solutions. From setting up your online store using WooCommerce, Saleor, or other cutting-edge tools to integrating payment gateways and managing inventory, we'll handle every aspect of your ecommerce journey. Our goal is to provide you with a user-friendly, secure, and scalable ecommerce platform that maximizes sales and customer satisfaction.
-
   - icon: "images/feature/programming1.svg"
     title: Static Website Building
     description: >
