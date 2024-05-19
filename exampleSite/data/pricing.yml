@@ -11,6 +11,7 @@ item:
       - SEO & Security Optimized
       - Social Media Integration
       - Customizable Design Options
+    price: "$250 Starting"
 
   - icon: "images/feature/best-price.svg"
     title: "Ecommerce Store ($300 Starting)"
@@ -20,6 +21,7 @@ item:
       - Affordable Pricing
       - Unlimited Revisions until 100% Satisfaction
       - Responsive Design for All Devices
+    price: "$300 Starting"
 
   - icon: "images/feature/best-price.svg"
     title: "Static Website Development ($200 Starting)"
@@ -29,3 +31,4 @@ item:
       - Social Media Integration
       - Customizable Design Options
       - Fast Load Times for Improved User Experience
+    price: "$200 Starting"
