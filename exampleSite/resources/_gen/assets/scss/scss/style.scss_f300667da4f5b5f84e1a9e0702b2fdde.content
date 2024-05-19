@@ -560,7 +560,7 @@ textarea.form-control {
     margin-bottom: 30px;
     transition: all 0.3s ease-in;
     height: 90%;
-  align-content: center; }
+    align-content: center; }
     .site-testimonial-item.active {
       box-shadow: 0px 30px 45px 0px rgba(0, 0, 0, 0.05); }
     .site-testimonial-item.inactive {

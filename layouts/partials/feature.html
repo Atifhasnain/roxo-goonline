@@ -21,7 +21,8 @@
                   </div>
                 </div>
                 <p class="site-testimonial-item-body">{{ .description }}</p>
-                <ul class="site-testimonial-item-features">
+                <h6 class="font-weight-bold">{{ .heading }}</h6>
+                <ul>
                   {{ range .items }}
                     <li>{{ . }}</li>
                   {{ end }}
