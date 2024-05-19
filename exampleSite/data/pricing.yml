@@ -4,7 +4,7 @@ subtitle: >
   Choose from our tailored service packages designed to meet your unique business needs
 item:
   - icon: "images/feature/best-price.svg"
-    title: "Website Development ($250 Starting)"
+    title: "Website Development"
     description: "Get your business online with a professionally designed website tailored to your brand:"
     items:
       - Free Domain & Hosting
@@ -14,7 +14,7 @@ item:
     price: "$250 Starting"
 
   - icon: "images/feature/best-price.svg"
-    title: "Ecommerce Store ($300 Starting)"
+    title: "Ecommerce Store"
     description: "Start selling online with a powerful ecommerce solution tailored to your business:"
     items:
       - Payment Integration (WooCommerce)
@@ -24,7 +24,7 @@ item:
     price: "$300 Starting"
 
   - icon: "images/feature/best-price.svg"
-    title: "Static Website Development ($200 Starting)"
+    title: "Static Website"
     description: "Create a stunning online presence with a lightning-fast static website:"
     items:
       - Free Domain & Hosting
